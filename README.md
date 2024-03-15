@@ -1,0 +1,2 @@
+# StudySync
+Study planner app
